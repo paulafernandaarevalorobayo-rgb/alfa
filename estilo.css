@@ -1,0 +1,29 @@
+H2{
+    color: rgb(6, 113, 56);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: initial;
+    font-weight: 900;
+    }
+    H5{  
+    color: rgb(139, 18, 24);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: 900;
+    }
+    body{ 
+    border: 30px solid rgb(211, 240, 244) ;
+    padding: 20px;
+    width: 95%;
+    background-color: rgb(228, 255, 228);
+    background-image: url(fondo-blanco-azul-degradado-.png);
+    }
+    img{
+width: 200px;
+} 
+div{
+    border:solid 3px rgb(244, 255, 213);
+    margin: 20px;
+    padding: 10px;
+}
+    
+
